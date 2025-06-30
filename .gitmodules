@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "exactLTRE"]
 	path = exactLTRE
-	url = https://github.com/cran/exactLTRE
+	url = https://github.com/chrissy3815/exactltre
